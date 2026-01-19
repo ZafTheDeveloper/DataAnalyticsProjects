@@ -6,7 +6,7 @@
 
 
 - [x] **SQL** - 
-  - E-commerce Dataset: Data Exploratoration  <br />
+  - E-commerce Dataset: Data Exploration  <br />
 *Review the SQL Script:* **[HERE](https://github.com/ZafTheDeveloper/DataAnalyticsProjects/blob/main/SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
 
 
