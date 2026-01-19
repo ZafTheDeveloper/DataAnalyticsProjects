@@ -1,5 +1,5 @@
 # Portfolio Projects
-## Following are my projects in SQL: <br />
+## Following are my projects in Data Analytics: <br />
 #### *You can also take a look at my Linkedin : [Zafran Hamdi](https://www.linkedin.com/in/zafranhamdi/)* <br />
 
 
